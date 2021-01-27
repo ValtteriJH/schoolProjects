@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>LoreDialog</class>
+ <widget class="QDialog" name="LoreDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPlainTextEdit" name="plainTextEdit">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>401</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="plainText">
+    <string>Horrible things have come upon Tampere. Innocent civilans are being captured by an UFO from the glorious North Korea. 
+Fortunately you are the culprit and it is your mission to capture them all! Unfortunately TKL is there to stop you. They are taking the precious specimens away.
+
+Move your character (which spawns in the upper left corner)  by WASD. Grab the needed 500 pesky humans (which are represented by black dots on the stops) by hovering over them. Dont take too long! The faster you are the better the score!</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

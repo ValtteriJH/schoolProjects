@@ -1,0 +1,17 @@
+*
+!/**/
+!*.*
+*.pro.user
+*.exe
+*build*
+*.qmake*
+*.o*
+*.autosave
+Course/*
+templates/*
+examples/*
+*.sh
+*.input
+moc_*
+ui_*
+*.txt
