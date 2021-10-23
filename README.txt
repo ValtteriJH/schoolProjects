@@ -1,0 +1,1 @@
+Files Readme.MD, .gitignore, and folder prg1 temporary measurements until course git issues are resolved
